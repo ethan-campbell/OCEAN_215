@@ -44,12 +44,12 @@ import os
 
 # run parameters
 moss_user_id = 181443923
-root_dir = '/Users/Ethan/Desktop/moss_submission/'
-original_assignment = 'ocean215.assignment1.final.ipynb'
-submission_string = 'A1.215'
+root_dir = '/Users/Ethan/Desktop/MOSS/'
+original_assignment = 'Assignment #2.py' # should end in .py
+submission_string = 'graded'
 
 # convert all Notebooks to Python scripts
-os.system('jupyter nbconvert --to script {0}*.ipynb'.format(root_dir))
+os.system('jupyter nbconvert --to script {0}*.ipynb --to python'.format(root_dir))
 
 # create new MOSS instance
 m = mosspy.Moss(moss_user_id, 'python')
