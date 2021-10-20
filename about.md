@@ -46,37 +46,38 @@ By the end of this course, students will be able to...
 
 We will take time in the first week of class to determine course expectations and community norms as a group. This will be saved as a Google document ([linked here](https://docs.google.com/document/d/1tr-cBbLIFFGSzfh3H2jiMYhoMOgS1lUHJgwLba-4bbk/edit)) as a reminder to all of us. As a teaching and learning community we will hold each other accountable for meeting these norms.
 
-## Course pages (access restricted):
+## Course pages
 
-- Canvas: https://canvas.uw.edu/courses/1401102
-- Google Drive: https://drive.google.com/drive/folders/1wUmjg7NZjdK_jMHc2y2bIxqHO8KNPa-a?usp=sharing
-- Piazza: https://piazza.com/class/kdhtk4p4izujg
+Note that access is restricted to these resources:
+- Canvas: [https://canvas.uw.edu/courses/1401102](https://canvas.uw.edu/courses/1401102)
+- Google Drive: [https://drive.google.com/drive/folders/1wUmjg7NZjdK_jMHc2y2bIxqHO8KNPa-a?usp=sharing](https://drive.google.com/drive/folders/1wUmjg7NZjdK_jMHc2y2bIxqHO8KNPa-a?usp=sharing)
+- Piazza: [https://piazza.com/class/kdhtk4p4izujg](https://piazza.com/class/kdhtk4p4izujg)
 
-## Office hours:
+## Office hours
 
 Instructors will host virtual office hours on Zoom every Tuesday and Friday from 4:30–5:30 pm PT, or by appointment if needed, particularly if you would like to discuss confidential issues.
 
-## Prerequisites:
+## Prerequisites
 
 No previous knowledge of Python, programming, or analysis techniques is assumed. Students should have access to a computer with an internet browser (e.g. Chrome, Safari, Firefox). Class will meet virtually using Zoom and all programming will be performed on the cloud in a browser window, so a reliable internet connection is essential. If this is an issue on a temporary basis, consider borrowing a wifi hotspot for 21 days for free using a Seattle Public Library card (SPL HotSpot details [linked here](https://www.spl.org/using-the-library/reservations-and-requests/reserve-a-computer/computers-and-equipment/spl-hotspot)). If this represents a longer-term challenge, please contact the instructors.
 
-## Required text:
+## Required text
 
 There are no required textbooks for this course.
 
-## Flipped lessons:
+## Flipped lessons
 
 Lessons will be approximately 30 minutes biweekly and will be presented in a flipped format. Lessons will be video-recorded ahead of time and distributed via Canvas. Slides and accompanying code will be provided along with the recordings. It is the responsibility of all students to watch the lesson before attending the corresponding class session on Zoom, as class time will be used for interactive activities and exercises, discussions, and group work on assignments and projects.
 
-## Class sessions:
+## Class sessions
 
 The class will meet via Zoom on Tuesdays and Thursdays from 2:30–4:20 pm PT. If your internet is unstable and the audio and/or video are lagging, you can call in to join via audio only using the number in the student-facing syllabus document.
 
-## Absences:
+## Absences
 
 If you must miss class, please notify your instructors as soon as you can, ideally before the class.
 
-## Zoom logistics:
+## Zoom logistics
 
 - **Please join class meetings using your computer, not a tablet or phone.** The activities and programming we have planned do not work well on alternative devices.
 - **Cameras are not required to be on, but it is highly encouraged** as it helps foster more interactivity and a better classroom community. If you feel the need to turn off your camera at any time, that is completely acceptable.
@@ -88,3 +89,25 @@ Zoom chat function is a good alternative.
 - **Zoom meetings will be recorded** to facilitate access for those in different time zones and those who have to miss class sessions. Note that Zoom recordings that include a student’s voice and/or face are an educational record protected by FERPA. Access to such recordings may need to be limited to the instructor and students enrolled in the specific class.
 - **Students will occasionally be asked to share their screen** to show their code to instructors or other students. If you would prefer not to share when asked, please let us know.
 - **Consider adding your pronouns to your Zoom username** to make our classroom a more inclusive space and to help your classmates and instructors refer to you correctly. Updating your preferred name by adding pronouns on [Identity.UW](https://identity.uw.edu) will save you from changing your Zoom username each meeting.
+
+## Course honor code
+
+The objective of this course is to inspire original thought and work in a collaborative environment. This course adopts the UW Computer Science academic misconduct policy ([https://www.cs.washington.edu/academics/misconduct](https://www.cs.washington.edu/academics/misconduct)). This policy includes the following principles: collaborative thinking and Piazza discussions are encouraged, but you may not directly share code blocks with others, and you may not copy code blocks from others. Copying code and then modifying it (e.g. changing variable names) is also unacceptable. If you receive assistance from another student, an instructor, or online resources, you must indicate what assistance you received using a comment at the relevant location within your code. Your instructors reserve the right to use automated plagiarism detection software to compare your code with code written by other students.
+
+## Respect for the diversity of all students
+
+We recognize that diverse backgrounds, embodiments, and experiences are essential to the critical thinking endeavor at the heart of university education. Because of this, we expect you to follow the UW Student Conduct Code in your interactions with us and your colleagues in this course by respecting the many social and cultural differences amongst us, which may include, but are not limited to: age, cultural background, disability, ethnicity, family status, gender identity and presentation, immigration status, national origin, race, religious and political beliefs, sex, sexual orientation, socioeconomic status, and veteran status. There are many resources for students, instructors, and staff on campus, some of which you can find at: [http://www.washington.edu/diversity/](http://www.washington.edu/diversity/).
+
+## Religious accommodations
+
+Washington state law requires that UW develop a policy for accommodation of student absences or significant hardship due to reasons of faith or conscience, or for organized religious activities. The UW’s policy, including more information about how to request an accommodation, is available at Religious Accommodations Policy ([https://registrar.washington.edu/staffandfaculty/religious-accommodations-policy/](https://registrar.washington.edu/staffandfaculty/religious-accommodations-policy/)). Accommodations must be requested within the first two weeks of this course using the Religious Accommodations Request form ([https://registrar.washington.edu/students/religious-accommodations-request/](https://registrar.washington.edu/students/religious-accommodations-request/)).
+
+## Academic accommodations
+
+If you anticipate or experience barriers to your learning or full participation in this course based on a physical, learning, or mental health disability, please immediately contact the instructor to discuss possible accommodation(s). A more complete description of the disability policy of the College of the Environment can be found [at this link](https://environment.uw.edu/intranet/academics/teaching/disability-accommodation/). If you have, or think you have, a temporary or permanent disability that impacts your participation in any course, please also contact Disability Resources for Students (DRS) at [uwdss@uw.edu](mailto:uwdss@uw.edu), or see more about policies at [http://www.uw.edu/students/drs](http://www.uw.edu/students/drs). Students must inform the instructor no later than the first week of the quarter of any accommodation(s) you will or may potentially require. Instructors will maintain strict confidentiality of any student’s disability and accommodation(s) and help all students meet the learning objectives of this course.
+
+# Coursework
+
+## Assignment #0
+
+For this assignment, you will follow the instructions in the Assignment #0 document (linked [here](https://drive.google.com/file/d/1A-YUfS-3UYye83nPvfN6MM1fm3xeRET2/view?usp=sharing), or available on the Google Drive). The instructions will help you configure Piazza, introduce guidelines for using the Piazza Q&A board, and ask you to respond to the instructor questions posted in the Piazza folder ‘assignment0’.
