@@ -2,15 +2,14 @@
 title: Week 1: Course expectations, syllabus review, course mechanics
 ---
 
-September 30
-: **Assignment #0 available**{: .label .label-blue }
+Sep. 30
+: **Assignment #0 available**{: .label .label-purple }
 
-October 1
+Oct. 1
 : Class on Zoom
   : [Slides](#)
-  
 : Co-creation of community norms
   : [Google Doc](#)
   
-October 2
-: **Assignment #1 available**{: .label .label-blue }
+Oct. 2
+: **Assignment #1 available**{: .label .label-purple }
