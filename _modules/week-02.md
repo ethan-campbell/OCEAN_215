@@ -1,23 +1,18 @@
 ---
-title: Basic Data Structures
+title: Week 2: Intro to data analysis, principles of programming, Google Colab notebooks, variables, mathematical operations, strings
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Oct. 6
+: Video lesson #1: Why code? An introduction to scientific data analysis, principles of programming, and Python
+  : [Video (Ethan)](#), [Slides](#)
+: Class #1 on Zoom
+  : [Slides](#), [Activity: Ocean data](#)
+: **Assignment #0 due at 11:59 pm PT**{: .label .label-red }
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
-
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
-
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+Oct. 8
+: Video lesson #2: Math, variables, and strings
+  : [Video (Katy)](#), [Slides](#)
+: Class #2 on Zoom
+  : [Slides](#), [Notebook](#)
+: **Final project assigned**{: .label .label-purple }
+  : [Project description](#)
