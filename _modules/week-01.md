@@ -1,23 +1,16 @@
 ---
-title: Introduction to Java
+title: Course expectations, syllabus review, course mechanics
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+September 30
+: **Assignment #0 available**{: .label .label-blue }
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
-
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+October 1
+: Class on Zoom
+  : [Slides](#)
+  
+: Co-creation of community norms
+  : [Google Doc](#)
+  
+October 2
+: **Assignment #1 available**{: .label .label-blue }
