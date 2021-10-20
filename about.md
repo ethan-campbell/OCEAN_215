@@ -18,9 +18,12 @@ description: >-
 
 ## Course basics
 
-**Instructors:** Ethan Campbell ([ethancc@uw.edu](mailto:ethancc@uw.edu)) and Katy Christensen ([katyc4@uw.edu](mailto:katyc4@uw.edu)
+**Instructors:** Ethan Campbell ([ethancc@uw.edu](mailto:ethancc@uw.edu)) and Katy Christensen ([katyc4@uw.edu](mailto:katyc4@uw.edu))
+
 **Dates:** October 1 - December 10, 2020
+
 **Location:** Zoom
+
 **Times:** Tuesday/Thursday 2:30–4:20 pm PT
 
 
