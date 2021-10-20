@@ -17,7 +17,7 @@ title: OCEAN 215
 tagline: Methods of oceanographic data analysis
 description: Autumn 2020 | University of Washington School of Oceanography
 author: Ethan Campbell and Katy Christensen
-baseurl: '/OCEAN-215' # the subpath of your site, e.g. /blog
+baseurl: '/OCEAN_215' # the subpath of your site, e.g. /blog
 url: 'https://ethan-campbell.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
