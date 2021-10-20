@@ -5,7 +5,7 @@ description: >-
     Syllabus
 ---
 
-# About
+# Syllabus
 {:.no_toc}
 
 ## Table of contents
@@ -44,3 +44,7 @@ By the end of this course, students will be able to...
 - Explore the ever-expanding universe of packages and tools available for creating and sharing code.
 - Formulate and investigate scientific research questions using programming and data analysis skills.
 - Adopt best practices in programming and data visualization that facilitate collaboration and information-sharing, both within the classroom and the broader scientific community.
+
+## Community norms
+
+We will take time in the first week of class to determine course expectations and community norms as a group. This will be saved as a Google document ([linked here](https://docs.google.com/document/d/1tr-cBbLIFFGSzfh3H2jiMYhoMOgS1lUHJgwLba-4bbk/edit)) as a reminder to all of us. As a teaching and learning community we will hold each other accountable for meeting these norms.
