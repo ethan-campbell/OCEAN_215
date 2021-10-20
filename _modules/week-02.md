@@ -4,19 +4,15 @@ title: Week 2 - Intro to data analysis, principles of programming, Google Colab 
 
 Oct. 6
 : Lesson #1: Why code? An introduction to scientific data analysis, principles of programming, and Python
-  : [Video (Ethan)](#)
-  : [Slides](#)
+  : [Video (Ethan)](#), [Slides](#)
 : Class #1 on Zoom
-  : [Slides](#)
-  : [Activity: Ocean data](#)
+  : [Slides](#), [Activity: Ocean data](#)
 : **Assignment #0 due at 11:59 pm PT**{: .label .label-red }
 
 Oct. 8
 : Lesson #2: Math, variables, and strings
-  : [Video (Katy)](#)
-  : [Slides](#)
+  : [Video (Katy)](#), [Slides](#)
 : Class #2 on Zoom
-  : [Slides](#)
-  : [Notebook](#)
+  : [Slides](#), [Notebook](#)
 : **Final project assigned**{: .label .label-purple }
   : [Project description](#)
