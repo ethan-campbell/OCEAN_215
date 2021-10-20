@@ -18,16 +18,15 @@ description: >-
 
 ## Course basics
 
-Instructors: Ethan Campbell ([ethancc@uw.edu](mailto:ethancc@uw.edu)) and Katy Christensen ([katyc4@uw.edu](mailto:katyc4@uw.edu)
-
-Dates: October 1 - December 10, 2020
-Location: Zoom
-Times: Tuesday/Thursday 2:30–4:20 pm PT
+**Instructors:** Ethan Campbell ([ethancc@uw.edu](mailto:ethancc@uw.edu)) and Katy Christensen ([katyc4@uw.edu](mailto:katyc4@uw.edu)
+**Dates:** October 1 - December 10, 2020
+**Location:** Zoom
+**Times:** Tuesday/Thursday 2:30–4:20 pm PT
 
 
 ## Land acknowledgement
 
-We acknowledge that this course is being taught and, for many of us, taken on the unceded traditional lands of Coast Salish peoples, particularly those of the Duwamish Tribe. We are grateful to respectfully live and work as guests on these lands with the Native people who call this home. This land acknowledgement is one small act in the ongoing process of working to be in good relationship with the people of the land and the land itself. An acknowledgment does not take the place of authentic relationships with Indigenous communities. If you are interested in supporting the Duwamish Tribe directly, we suggest visiting this link to Real Rent Duwamish: https://www.realrentduwamish.org.
+We acknowledge that this course is being taught and, for many of us, taken on the unceded traditional lands of Coast Salish peoples, particularly those of the Duwamish Tribe. We are grateful to respectfully live and work as guests on these lands with the Native people who call this home. This land acknowledgement is one small act in the ongoing process of working to be in good relationship with the people of the land and the land itself. An acknowledgment does not take the place of authentic relationships with Indigenous communities. If you are interested in supporting the Duwamish Tribe directly, we suggest visiting this link to Real Rent Duwamish: [https://www.realrentduwamish.org](https://www.realrentduwamish.org).
 
 ## Introduction
 
@@ -36,7 +35,6 @@ As your instructors, we recognize that the circumstances presented by the COVID-
 ## Course objectives
 
 By the end of this course, students will be able to...
-
 - Understand why the Python programming language is ideal for data analysis.
 - Write, execute, and debug Python code.
 - Access, read, transform, visualize, and interpret oceanographic data with confidence using Python.
