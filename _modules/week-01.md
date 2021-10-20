@@ -1,5 +1,5 @@
 ---
-title: Course expectations, syllabus review, course mechanics
+title: Week 1: Course expectations, syllabus review, course mechanics
 ---
 
 September 30
