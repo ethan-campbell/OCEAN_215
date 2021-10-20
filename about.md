@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: Syllabus
 description: >-
-    Course policies and information.
+    Syllabus
 ---
 
 # About
@@ -16,18 +16,30 @@ description: >-
 
 ---
 
-## About
+## Course basics
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+Instructors: Ethan Campbell ([ethancc@uw.edu](mailto:ethancc@uw.edu)) and Katy Christensen ([katyc4@uw.edu](mailto:katyc4@uw.edu)
 
-## Lecture
+Dates: October 1 - December 10, 2020
+Location: Zoom
+Times: Tuesday/Thursday 2:30–4:20 pm PT
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
 
-## Resources
+## Land acknowledgement
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+We acknowledge that this course is being taught and, for many of us, taken on the unceded traditional lands of Coast Salish peoples, particularly those of the Duwamish Tribe. We are grateful to respectfully live and work as guests on these lands with the Native people who call this home. This land acknowledgement is one small act in the ongoing process of working to be in good relationship with the people of the land and the land itself. An acknowledgment does not take the place of authentic relationships with Indigenous communities. If you are interested in supporting the Duwamish Tribe directly, we suggest visiting this link to Real Rent Duwamish: https://www.realrentduwamish.org.
 
-## Assignments
+## Introduction
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+As your instructors, we recognize that the circumstances presented by the COVID-19 pandemic are challenging and far from ideal. We also understand that each person has a life outside of this course that can impact their education. Your physical well-being and your mental health are the top priorities for this quarter. Do not hesitate to reach out to your instructors (by email, in office hours, or during class) early and often to let us know if you need accommodations or extensions. While we hope that students will do their best to keep up with deadlines this quarter, we will be as flexible and understanding as possible for each person’s circumstance, and we ask that you try to do the same for us. Please treat your colleagues, your instructors, and yourselves with the utmost care; we are all human and we are all in this together.
+
+## Course objectives
+
+By the end of this course, students will be able to...
+
+- Understand why the Python programming language is ideal for data analysis.
+- Write, execute, and debug Python code.
+- Access, read, transform, visualize, and interpret oceanographic data with confidence using Python.
+- Explore the ever-expanding universe of packages and tools available for creating and sharing code.
+- Formulate and investigate scientific research questions using programming and data analysis skills.
+- Adopt best practices in programming and data visualization that facilitate collaboration and information-sharing, both within the classroom and the broader scientific community.
