@@ -5,7 +5,7 @@ description: >-
     Syllabus
 ---
 
-# Syllabus
+# Course syllabus
 {:.no_toc}
 
 ## Table of contents
@@ -18,13 +18,10 @@ description: >-
 
 ## Course basics
 
-**Instructors:** Ethan Campbell ([ethancc@uw.edu](mailto:ethancc@uw.edu)) and Katy Christensen ([katyc4@uw.edu](mailto:katyc4@uw.edu))
-
-**Dates:** October 1 - December 10, 2020
-
-**Location:** Zoom
-
-**Times:** Tuesday/Thursday 2:30–4:20 pm PT
+- **Instructors:** Ethan Campbell ([ethancc@uw.edu](mailto:ethancc@uw.edu)) and Katy Christensen ([katyc4@uw.edu](mailto:katyc4@uw.edu))
+- **Dates:** October 1 - December 10, 2020
+- **Location:** Zoom
+- **Times:** Tuesday/Thursday 2:30–4:20 pm PT
 
 
 ## Land acknowledgement
@@ -48,3 +45,46 @@ By the end of this course, students will be able to...
 ## Community norms
 
 We will take time in the first week of class to determine course expectations and community norms as a group. This will be saved as a Google document ([linked here](https://docs.google.com/document/d/1tr-cBbLIFFGSzfh3H2jiMYhoMOgS1lUHJgwLba-4bbk/edit)) as a reminder to all of us. As a teaching and learning community we will hold each other accountable for meeting these norms.
+
+## Course pages (access restricted):
+
+- Canvas: https://canvas.uw.edu/courses/1401102
+- Google Drive: https://drive.google.com/drive/folders/1wUmjg7NZjdK_jMHc2y2bIxqHO8KNPa-a?usp=sharing
+- Piazza: https://piazza.com/class/kdhtk4p4izujg
+
+## Office hours:
+
+Instructors will host virtual office hours on Zoom every Tuesday and Friday from 4:30–5:30 pm PT, or by appointment if needed, particularly if you would like to discuss confidential issues.
+
+## Prerequisites:
+
+No previous knowledge of Python, programming, or analysis techniques is assumed. Students should have access to a computer with an internet browser (e.g. Chrome, Safari, Firefox). Class will meet virtually using Zoom and all programming will be performed on the cloud in a browser window, so a reliable internet connection is essential. If this is an issue on a temporary basis, consider borrowing a wifi hotspot for 21 days for free using a Seattle Public Library card (SPL HotSpot details [linked here](https://www.spl.org/using-the-library/reservations-and-requests/reserve-a-computer/computers-and-equipment/spl-hotspot)). If this represents a longer-term challenge, please contact the instructors.
+
+## Required text:
+
+There are no required textbooks for this course.
+
+## Flipped lessons:
+
+Lessons will be approximately 30 minutes biweekly and will be presented in a flipped format. Lessons will be video-recorded ahead of time and distributed via Canvas. Slides and accompanying code will be provided along with the recordings. It is the responsibility of all students to watch the lesson before attending the corresponding class session on Zoom, as class time will be used for interactive activities and exercises, discussions, and group work on assignments and projects.
+
+## Class sessions:
+
+The class will meet via Zoom on Tuesdays and Thursdays from 2:30–4:20 pm PT. If your internet is unstable and the audio and/or video are lagging, you can call in to join via audio only using the number in the student-facing syllabus document.
+
+## Absences:
+
+If you must miss class, please notify your instructors as soon as you can, ideally before the class.
+
+## Zoom logistics:
+
+- **Please join class meetings using your computer, not a tablet or phone.** The activities and programming we have planned do not work well on alternative devices.
+- **Cameras are not required to be on, but it is highly encouraged** as it helps foster more interactivity and a better classroom community. If you feel the need to turn off your camera at any time, that is completely acceptable.
+- **Virtual backgrounds are allowed.** We do request that your background is not a distraction to others or inappropriate in any way.
+- **Keep mics off except to speak.** We encourage participation, so you do not have to “raise” your hand to speak. Note that holding down the space bar on Zoom allows you to unmute yourself temporarily.
+- **Consider using headphones/earbuds** to reduce feedback when you unmute yourself to talk.
+- **Chat is an acceptable form of communication.** If you feel uncomfortable speaking, using the
+Zoom chat function is a good alternative.
+- **Zoom meetings will be recorded** to facilitate access for those in different time zones and those who have to miss class sessions. Note that Zoom recordings that include a student’s voice and/or face are an educational record protected by FERPA. Access to such recordings may need to be limited to the instructor and students enrolled in the specific class.
+- **Students will occasionally be asked to share their screen** to show their code to instructors or other students. If you would prefer not to share when asked, please let us know.
+- **Consider adding your pronouns to your Zoom username** to make our classroom a more inclusive space and to help your classmates and instructors refer to you correctly. Updating your preferred name by adding pronouns on [Identity.UW](https://identity.uw.edu) will save you from changing your Zoom username each meeting.
