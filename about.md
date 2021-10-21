@@ -16,17 +16,18 @@ description: >-
 
 ---
 
-## Course basics
+# OCEAN 215 - Autumn 2020
 
 - **Instructors:** Ethan Campbell ([ethancc@uw.edu](mailto:ethancc@uw.edu)) and Katy Christensen ([katyc4@uw.edu](mailto:katyc4@uw.edu))
 - **Dates:** October 1 - December 10, 2020
 - **Location:** Zoom
 - **Times:** Tuesday/Thursday 2:30–4:20 pm PT
 
-
 ## Land acknowledgement
 
 We acknowledge that this course is being taught and, for many of us, taken on the unceded traditional lands of Coast Salish peoples, particularly those of the Duwamish Tribe. We are grateful to respectfully live and work as guests on these lands with the Native people who call this home. This land acknowledgement is one small act in the ongoing process of working to be in good relationship with the people of the land and the land itself. An acknowledgment does not take the place of authentic relationships with Indigenous communities. If you are interested in supporting the Duwamish Tribe directly, we suggest visiting this link to Real Rent Duwamish: [https://www.realrentduwamish.org](https://www.realrentduwamish.org).
+
+# Course mechanics
 
 ## Introduction
 
@@ -73,6 +74,8 @@ Lessons will be approximately 30 minutes biweekly and will be presented in a fli
 
 The class will meet via Zoom on Tuesdays and Thursdays from 2:30–4:20 pm PT. If your internet is unstable and the audio and/or video are lagging, you can call in to join via audio only using the number in the student-facing syllabus document.
 
+# Policies
+
 ## Absences
 
 If you must miss class, please notify your instructors as soon as you can, ideally before the class.
@@ -111,3 +114,29 @@ If you anticipate or experience barriers to your learning or full participation 
 ## Assignment #0
 
 For this assignment, you will follow the instructions in the Assignment #0 document (linked [here](https://drive.google.com/file/d/1A-YUfS-3UYye83nPvfN6MM1fm3xeRET2/view?usp=sharing), or available on the Google Drive). The instructions will help you configure Piazza, introduce guidelines for using the Piazza Q&A board, and ask you to respond to the instructor questions posted in the Piazza folder ‘assignment0’.
+
+## Assignments #1-4
+
+There will be 4 main assignments throughout the course. Students will have 2 weeks to complete each assignment. Assignments will be provided in the form of Google Colab notebooks (a version of Python Jupyter notebooks in which all computations are performed on Google’s servers, rather than your computer). Assignment notebooks will be made available in the shared class Google Drive folder and on Canvas (see ‘Course pages’ above). A version should be first copied to your individual Google Drive folder before starting work on it. When ready to submit the assignment, simply save it before the deadline, close the file, and keep it in your individual class Google Drive folder. For questions asking for code, grades will be assigned based on the correctness, functionality, and tidiness of the code; for non-coding questions, point allocations will be specified in the problem.
+
+## Late work policy for Assignments #1-4
+
+Each student has a single grace period for any one assignment during the quarter. When used, this grace period grants the student an additional 2 weeks to complete the assignment without penalty to their grade. If a student has already used their grace period for the quarter, late work will be docked 10% per day that the assignment is overdue. If circumstances will prevent you from completing an assignment on time, please email the instructors prior to the assignment deadline for an extension. If a student has not communicated the need for an extension with the instructors, their grace period will automatically be used.
+
+## Piazza
+
+Throughout the quarter we will be using Piazza (accessible via Canvas, or the link in ‘Course pages’ above) as the hub of discussions outside of class sessions. We ask that you post your coding questions to the Piazza Q&A board, rather than emailing the instructors with coding questions. To respond to a classmate’s question, write in the “students’ answer” section with your perspective. This section can be collaboratively edited by multiple students. You may also start follow-up discussions on a classmate’s post. By the end of the quarter, each student is required to have made at least 5 substantive contributions on Piazza, which may include questions, answers (including edits to the “students’ answer”), and/or follow-up posts. Contributions that do not add further insights (e.g. “Good work.”, “I agree.”,“I had the same problem.”, etc.) will not count towards the requirement. Additionally, posts for Assignment #0 or the final project data check-in do not count. Posts can be made anonymously to the class, but not to the instructors.
+
+## Final project
+
+There will be an individually-directed final project. This assignment will allow students to investigate a scientific data set of their choice and showcase programming and analytical skills learned during the course. More details and a grading rubric will be provided soon. Project presentations will occur on the last week of the quarter. Students will submit their slides and code for the project for grading.
+
+## Exams
+
+There are no exams for this course. There is no class at the scheduled final exam time.
+
+## Final course grade
+
+- Assignments #0-4: 60% (12% each)
+- Piazza posts: 15%
+- Final project: 25%
