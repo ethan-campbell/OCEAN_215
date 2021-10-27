@@ -3,14 +3,14 @@ title: Week 7 - Matplotlib (histograms, bar plots, pseudocolor/contour plots), C
 ---
 
 Nov. 10
-: Lesson #N: TITLE
-  : [Video (NAME)](#), [Slides](#)
+: Lesson #11: Coding demo - histograms and bar plots
+  : [Video (Katy)](#), [Slides](#)
 : Class #N on Zoom
   : [Slides](#), [Notebook](#)
 
 Nov. 12
-: Lesson #N: TITLE
-  : [Video (NAME)](#), [Slides](#)
+: Lesson #12: Plotting review, 2-D plots, and mapping
+  : [Video (Katy)](#), [Slides](#)
 : Class #N on Zoom
   : [Slides](#), [Notebook](#)
 

@@ -6,13 +6,11 @@ Nov. 30
 : **Assignment #4 due at 11:59 pm PT**{: .label .label-red }
 
 Dec. 1
-: Lesson #N: TITLE
-  : [Video (NAME)](#), [Slides](#)
+: Lesson #16: Functions, organization, external packages, and string formatting
+  : [Video (Katy)](#), [Slides](#)
 : Class #N on Zoom
   : [Slides](#), [Notebook](#)
 
 Dec. 3
-: Lesson #N: TITLE
-  : [Video (NAME)](#), [Slides](#)
 : Class #N on Zoom
   : [Slides](#), [Notebook](#)

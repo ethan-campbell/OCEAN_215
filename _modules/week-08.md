@@ -3,13 +3,11 @@ title: Week 8 - SciPy (interpolation, regression), Pandas (split-apply-combine);
 ---
 
 Nov. 17
-: Lesson #N: TITLE
-  : [Video (NAME)](#), [Slides](#)
 : Class #N on Zoom
   : [Slides](#), [Notebook](#)
 
 Nov. 19
-: Lesson #N: TITLE
-  : [Video (NAME)](#), [Slides](#)
+: Lesson #14: SciPy (linear regression, 1-D and 2-D interpolation)
+  : [Video (Ethan)](#), [Slides](#)
 : Class #N on Zoom
   : [Slides](#), [Notebook](#)

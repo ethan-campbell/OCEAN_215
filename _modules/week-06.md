@@ -3,14 +3,12 @@ title: Week 6 - Pandas (CSV files), xarray (netCDF files), dealing with missing 
 ---
 
 Nov. 3
-: Lesson #N: TITLE
-  : [Video (NAME)](#), [Slides](#)
+: Lesson #9: Pandas and xarray: Working with CSV and netCDF data files
+  : [Video (Ethan)](#), [Slides](#)
 : Class #N on Zoom
   : [Slides](#), [Notebook](#)
 
 Nov. 5
-: Lesson #N: TITLE
-  : [Video (NAME)](#), [Slides](#)
 : Class #N on Zoom
   : [Slides](#), [Notebook](#)
 

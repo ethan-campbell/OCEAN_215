@@ -3,14 +3,14 @@ title: Week 5 - NumPy (CSV files), Matplotlib (basic plotting)
 ---
 
 Oct. 27
-: Lesson #N: TITLE
-  : [Video (NAME)](#), [Slides](#)
+: Lesson #7: Loading files (Colab, Google Drive), loading data (readlines, NumPy), and an intro to plotting (Matplotlib)
+  : [Video (Katy)](#), [Slides](#)
 : Class #N on Zoom
   : [Slides](#), [Notebook](#)
 
 Oct. 29
-: Lesson #N: TITLE
-  : [Video (NAME)](#), [Slides](#)
+: Lesson #8: Coding demo: El Niño index - Loading data with NumPy, working with 2D arrays, creating datetime objects, making line/scatter plots
+  : [Video (Ethan)](#), [Slides](#)
 : Class #N on Zoom
   : [Slides](#), [Notebook](#)
 

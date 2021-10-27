@@ -1,16 +1,16 @@
 ---
-title: Week 3 - Lists, object types, logical operations, and control flow (if statements, loops, list comprehensions)
+title: Week 3 - Lists, object types, logical operations, and control flow
 ---
 
 Oct. 13
-: Lesson #N: TITLE
-  : [Video (NAME)](#), [Slides](#)
+: Lesson #3: Lists, object types, and logical operations
+  : [Video (Katy)](#), [Slides](#)
 : Class #N on Zoom
   : [Slides](#), [Notebook](#)
 
 Oct. 15
-: Lesson #N: TITLE
-  : [Video (NAME)](#), [Slides](#)
+: Lesson #4: For loops, while loops, list comprehensions, and if statements
+  : [Video (Ethan)](#), [Slides](#)
 : Class #N on Zoom
   : [Slides](#), [Notebook](#)
 
