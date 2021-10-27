@@ -23,6 +23,8 @@ description: >-
 - **Location:** Zoom
 - **Times:** Tuesday/Thursday 2:30–4:20 pm PT
 
+*Note: Email the instructors for a typeset PDF or LaTeX version of this syllabus for reuse.*
+
 ## Land acknowledgement
 
 We acknowledge that this course is being taught and, for many of us, taken on the unceded traditional lands of Coast Salish peoples, particularly those of the Duwamish Tribe. We are grateful to respectfully live and work as guests on these lands with the Native people who call this home. This land acknowledgement is one small act in the ongoing process of working to be in good relationship with the people of the land and the land itself. An acknowledgment does not take the place of authentic relationships with Indigenous communities. If you are interested in supporting the Duwamish Tribe directly, we suggest visiting this link to Real Rent Duwamish: [https://www.realrentduwamish.org](https://www.realrentduwamish.org).
