@@ -13,3 +13,8 @@ Nov. 12
   : [Video (NAME)](#), [Slides](#)
 : Class #N on Zoom
   : [Slides](#), [Notebook](#)
+
+Nov. 14
+: **Final project Piazza responses due at 11:59 pm PT**{: .label .label-green }
+: **Assignment #3 due at 11:59 pm PT**{: .label .label-red }
+: **Assignment #4 available**{: .label .label-purple }

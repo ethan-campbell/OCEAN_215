@@ -13,3 +13,6 @@ Nov. 5
   : [Video (NAME)](#), [Slides](#)
 : Class #N on Zoom
   : [Slides](#), [Notebook](#)
+
+Nov. 7
+: **Final project data check-in due at 11:59 pm PT**{: .label .label-green }

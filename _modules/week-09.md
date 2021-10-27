@@ -1,5 +1,5 @@
 ---
-title: Week 9 - Functions, package management; final project: analyzing data
+title: Week 9 - Functions, package management; final project (analyzing data)
 ---
 
 Nov. 24

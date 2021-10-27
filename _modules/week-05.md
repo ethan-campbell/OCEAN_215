@@ -13,3 +13,7 @@ Oct. 29
   : [Video (NAME)](#), [Slides](#)
 : Class #N on Zoom
   : [Slides](#), [Notebook](#)
+
+Oct. 31
+: **Assignment #2 due at 11:59 pm PT**{: .label .label-red }
+: **Assignment #3 available**{: .label .label-purple }

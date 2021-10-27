@@ -14,5 +14,5 @@ Oct. 8
   : [Video (Katy)](#), [Slides](#)
 : Class #2 on Zoom
   : [Slides](#), [Notebook](#)
-: **Final project assigned**{: .label .label-purple }
+: **Final project assigned**{: .label .label-green }
   : [Project description](#)
