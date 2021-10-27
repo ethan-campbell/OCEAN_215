@@ -12,4 +12,4 @@ Oct. 1
   
 Oct. 2
 : **Assignment #1 available**{: .label .label-purple }
-  : Blank version ([Notebook](/OCEAN_215/materials/assignments/assignment_1.ipynb))
+  : Notebook ([HTML](https://nbviewer.org/github/ethan-campbell/OCEAN_215/blob/main/materials/assignments/assignment_1.ipynb), [.ipynb](/OCEAN_215/materials/assignments/assignment_1.ipynb))

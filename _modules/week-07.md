@@ -18,4 +18,4 @@ Nov. 14
 : **Final project Piazza responses due at 11:59 pm PT**{: .label .label-green }
 : **Assignment #3 due at 11:59 pm PT**{: .label .label-red }
 : **Assignment #4 available**{: .label .label-purple }
-  : Blank version ([Notebook](/OCEAN_215/materials/assignments/assignment_4.ipynb)), Data ([Glider](/OCEAN_215/materials/data/Oceanglider.csv))
+  : Notebook ([HTML](https://nbviewer.org/github/ethan-campbell/OCEAN_215/blob/main/materials/assignments/assignment_4.ipynb), [.ipynb](/OCEAN_215/materials/assignments/assignment_4.ipynb)), Data ([Glider](/OCEAN_215/materials/data/Oceanglider.csv))

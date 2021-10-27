@@ -17,4 +17,4 @@ Oct. 29
 Oct. 31
 : **Assignment #2 due at 11:59 pm PT**{: .label .label-red }
 : **Assignment #3 available**{: .label .label-purple }
-  : Blank version ([Notebook](/OCEAN_215/materials/assignments/assignment_3.ipynb)), Data ([ERA5](/OCEAN_215/materials/data/era5_puget_sound_weather.nc), [Southern Ocean float](/OCEAN_215/materials/data/Southern_Ocean_float_9094_time_series.csv), [WOCE CTD #1](/OCEAN_215/materials/data/WOCE_I06S_CTD_20080305.csv), [WOCE CTD #2](/OCEAN_215/materials/data/WOCE_I06S_CTD_20190416.csv))
+  : Notebook ([HTML](https://nbviewer.org/github/ethan-campbell/OCEAN_215/blob/main/materials/assignments/assignment_3.ipynb), [.ipynb](/OCEAN_215/materials/assignments/assignment_3.ipynb)), Data ([ERA5](/OCEAN_215/materials/data/era5_puget_sound_weather.nc), [Southern Ocean float](/OCEAN_215/materials/data/Southern_Ocean_float_9094_time_series.csv), [WOCE CTD #1](/OCEAN_215/materials/data/WOCE_I06S_CTD_20080305.csv), [WOCE CTD #2](/OCEAN_215/materials/data/WOCE_I06S_CTD_20190416.csv))
