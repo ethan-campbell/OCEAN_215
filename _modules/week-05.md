@@ -9,7 +9,7 @@ Oct. 27
   : [Slides](#), [Notebook](#)
 
 Oct. 29
-: Lesson #8: Coding demo: El Niño index - Loading data with NumPy, working with 2D arrays, creating datetime objects, making line/scatter plots
+: Lesson #8: El Niño index coding demo - Loading data with NumPy, working with 2D arrays, creating datetime objects, making line/scatter plots
   : [Video (Ethan)](#), [Slides](#)
 : Class #N on Zoom
   : [Slides](#), [Notebook](#)
