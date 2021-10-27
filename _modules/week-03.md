@@ -20,3 +20,4 @@ Oct. 16
 Oct. 17
 : **Assignment #1 due at 11:59 pm PT**{: .label .label-red }
 : **Assignment #2 available**{: .label .label-purple }
+  : Blank version ([Notebook](/OCEAN_215/materials/assignments/assignment_2.ipynb))

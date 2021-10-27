@@ -15,4 +15,4 @@ Oct. 8
 : Class #2 on Zoom
   : [Slides](#), [Notebook](#)
 : **Final project assigned**{: .label .label-green }
-  : [Project description](#)
+  : Description ([PDF](/OCEAN_215/materials/assignments/final_project.pdf))
