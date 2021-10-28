@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Just the Class
+title: Methods of oceanographic data analysis
 nav_exclude: true
 seo:
   type: Course
-  name: Just the Class
+  name: Methods of oceanographic data analysis
 ---
 
 # {{ site.tagline }}
