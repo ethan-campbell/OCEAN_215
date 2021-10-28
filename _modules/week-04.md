@@ -4,12 +4,12 @@ title: Week 4 - NumPy (1D and 2D arrays, functions), APIs, dictionaries, datetim
 
 Oct. 20
 : Lesson #5: NumPy: Arrays and functions
-  : Video - Ethan (YouTube - [1](#), [2](#), [3](#)), Slides ([PDF](/OCEAN_215/materials/lessons/lesson_5.pdf), [Keynote](/OCEAN_215/materials/lessons/lesson_5.key)), Notebook ([HTML](https://nbviewer.org/github/ethan-campbell/OCEAN_215/blob/main/materials/lessons/lesson_5_notebook.ipynb), [.ipynb](/OCEAN_215/materials/lessons/lesson_5_notebook.ipynb))
+  : Video - Ethan (YouTube - Parts [1](#), [2](#), [3](#)), Slides ([PDF](/OCEAN_215/materials/lessons/lesson_5.pdf), [Keynote](/OCEAN_215/materials/lessons/lesson_5.key)), Notebook ([HTML](https://nbviewer.org/github/ethan-campbell/OCEAN_215/blob/main/materials/lessons/lesson_5_notebook.ipynb), [.ipynb](/OCEAN_215/materials/lessons/lesson_5_notebook.ipynb))
 : Class #N on Zoom
   : [Slides](#), [Notebook](#)
 
 Oct. 22
 : Lesson #6: Multi-dimensional NumPy arrays, dictionaries, and datetime
-  : Video - Katy (YouTube - [1](#), [2](#), [3](#), [4](#)), Slides ([PDF](/OCEAN_215/materials/lessons/lesson_6.pdf), [Keynote](/OCEAN_215/materials/lessons/lesson_6.key))
+  : Video - Katy (YouTube - Parts [1](#), [2](#), [3](#), [4](#)), Slides ([PDF](/OCEAN_215/materials/lessons/lesson_6.pdf), [Keynote](/OCEAN_215/materials/lessons/lesson_6.key))
 : Class #N on Zoom
   : [Slides](#), [Notebook](#)
