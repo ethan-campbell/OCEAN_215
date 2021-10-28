@@ -12,7 +12,7 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-<img src="/OCEAN_215/assets/images/bsose_3d.jpeg" alt="Python logo" style="height:350px; width:630px;"/>
+![B-SOSE model output](/OCEAN_215/assets/images/bsose_3d.jpeg){:height="350px" width="630px"}
 
 Welcome to the course website for OCEAN 215, as taught in Autumn 2020 by two graduate students, Ethan Campbell and Katy Christensen. The goal of this course is to **equip undergraduate students to analyze oceanographic data with confidence using the Python programming language**.
 
