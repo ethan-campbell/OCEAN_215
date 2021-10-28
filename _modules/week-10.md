@@ -7,7 +7,7 @@ Nov. 30
 
 Dec. 1
 : Lesson #16: Functions, organization, external packages, and string formatting
-  : [Video (Katy)](#), Slides ([PDF](/OCEAN_215/materials/lessons/lesson_16.pdf)), Notebook ([HTML](https://nbviewer.org/github/ethan-campbell/OCEAN_215/blob/main/materials/lessons/lesson_16_notebook.ipynb), [.ipynb](/OCEAN_215/materials/lessons/lesson_16_notebook.ipynb))
+  : [Video (Katy)](#), Slides ([PDF](/OCEAN_215/materials/lessons/lesson_16.pdf), [Keynote](/OCEAN_215/materials/lessons/lesson_16.key)), Notebook ([HTML](https://nbviewer.org/github/ethan-campbell/OCEAN_215/blob/main/materials/lessons/lesson_16_notebook.ipynb), [.ipynb](/OCEAN_215/materials/lessons/lesson_16_notebook.ipynb))
 : Class #N on Zoom
   : [Slides](#), [Notebook](#)
 

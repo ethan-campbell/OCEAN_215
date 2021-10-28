@@ -11,7 +11,7 @@ Nov. 10
 
 Nov. 12
 : Lesson #12: Plotting review, 2-D plots, and mapping
-  : [Video (Katy)](#), Slides ([PDF](/OCEAN_215/materials/lessons/lesson_12.pdf)), Notebook ([HTML](https://nbviewer.org/github/ethan-campbell/OCEAN_215/blob/main/materials/lessons/lesson_12_notebook.ipynb), [.ipynb](/OCEAN_215/materials/lessons/lesson_12_notebook.ipynb))
+  : [Video (Katy)](#), Slides ([PDF](/OCEAN_215/materials/lessons/lesson_12.pdf), [Keynote](/OCEAN_215/materials/lessons/lesson_12.key)), Notebook ([HTML](https://nbviewer.org/github/ethan-campbell/OCEAN_215/blob/main/materials/lessons/lesson_12_notebook.ipynb), [.ipynb](/OCEAN_215/materials/lessons/lesson_12_notebook.ipynb))
 : Class #N on Zoom
   : [Slides](#), [Notebook](#)
 

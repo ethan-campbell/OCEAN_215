@@ -4,7 +4,7 @@ title: Week 5 - NumPy (CSV files), Matplotlib (basic plotting)
 
 Oct. 27
 : Lesson #7: Loading files (Colab, Google Drive), loading data (readlines, NumPy), and an intro to plotting (Matplotlib)
-  : [Video (Katy)](#), Slides ([PDF](/OCEAN_215/materials/lessons/lesson_7.pdf)), Notebook ([HTML](https://nbviewer.org/github/ethan-campbell/OCEAN_215/blob/main/materials/lessons/lesson_7_notebook.ipynb), [.ipynb](/OCEAN_215/materials/lessons/lesson_7_notebook.ipynb))
+  : [Video (Katy)](#), Slides ([PDF](/OCEAN_215/materials/lessons/lesson_7.pdf), [Keynote](/OCEAN_215/materials/lessons/lesson_7.key)), Notebook ([HTML](https://nbviewer.org/github/ethan-campbell/OCEAN_215/blob/main/materials/lessons/lesson_7_notebook.ipynb), [.ipynb](/OCEAN_215/materials/lessons/lesson_7_notebook.ipynb))
 : Class #N on Zoom
   : [Slides](#), [Notebook](#)
 
