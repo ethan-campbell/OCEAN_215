@@ -12,10 +12,8 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-{% if site.announcements %}
-{{ site.announcements.last }}
-[Announcements](announcements.md){: .btn .btn-outline .fs-3 }
-{% endif %}
+<br/>
+<img src="/OCEAN_215/assets/images/python.png" alt="Python logo" style="height: 100px; width:345px;"/>
 
 ## Just the Class
 
