@@ -4,13 +4,13 @@ title: Week 3 - Lists, object types, logical operations, and control flow
 
 Oct. 13
 : Lesson #3: Lists, object types, and logical operations
-  : [Video (Katy)](#), Slides ([PDF](/OCEAN_215/materials/lessons/lesson_3.pdf), [Keynote](/OCEAN_215/materials/lessons/lesson_3.key))
+  : Video - Katy (YouTube - [1](#), [2](#), [3](#), [4](#)), Slides ([PDF](/OCEAN_215/materials/lessons/lesson_3.pdf), [Keynote](/OCEAN_215/materials/lessons/lesson_3.key))
 : Class #N on Zoom
   : [Slides](#), [Notebook](#)
 
 Oct. 15
 : Lesson #4: For loops, while loops, list comprehensions, and if statements
-  : [Video (Ethan)](#), Slides ([PDF](/OCEAN_215/materials/lessons/lesson_4.pdf), [Keynote](/OCEAN_215/materials/lessons/lesson_4.key)), Notebook ([HTML](https://nbviewer.org/github/ethan-campbell/OCEAN_215/blob/main/materials/lessons/lesson_4_notebook.ipynb), [.ipynb](/OCEAN_215/materials/lessons/lesson_4_notebook.ipynb))
+  : Video - Ethan (YouTube - [1](#), [2](#), [3](#), [4](#)), Slides ([PDF](/OCEAN_215/materials/lessons/lesson_4.pdf), [Keynote](/OCEAN_215/materials/lessons/lesson_4.key)), Notebook ([HTML](https://nbviewer.org/github/ethan-campbell/OCEAN_215/blob/main/materials/lessons/lesson_4_notebook.ipynb), [.ipynb](/OCEAN_215/materials/lessons/lesson_4_notebook.ipynb))
 : Class #N on Zoom
   : [Slides](#), [Notebook](#)
 

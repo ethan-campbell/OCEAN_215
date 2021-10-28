@@ -4,7 +4,7 @@ title: Week 6 - Pandas (CSV files), xarray (netCDF files), dealing with missing 
 
 Nov. 3
 : Lesson #9: Pandas and xarray: Working with CSV and netCDF data files
-  : [Video (Ethan)](#), Slides ([PDF](/OCEAN_215/materials/lessons/lesson_9.pdf), [Keynote](/OCEAN_215/materials/lessons/lesson_9.key)), Notebook ([HTML](https://nbviewer.org/github/ethan-campbell/OCEAN_215/blob/main/materials/lessons/lesson_9_notebook.ipynb), [.ipynb](/OCEAN_215/materials/lessons/lesson_9_notebook.ipynb)), Data ([Southern Ocean float](/OCEAN_215/materials/data/Southern_Ocean_float_9094.txt), B-SOSE output [[contact us](mailto:ethancc@uw.edu)])
+  : Video - Ethan (YouTube - [1](#), [2](#), [3](#), [4](#)), Slides ([PDF](/OCEAN_215/materials/lessons/lesson_9.pdf), [Keynote](/OCEAN_215/materials/lessons/lesson_9.key)), Notebook ([HTML](https://nbviewer.org/github/ethan-campbell/OCEAN_215/blob/main/materials/lessons/lesson_9_notebook.ipynb), [.ipynb](/OCEAN_215/materials/lessons/lesson_9_notebook.ipynb)), Data ([Southern Ocean float](/OCEAN_215/materials/data/Southern_Ocean_float_9094.txt), B-SOSE output [[contact us](mailto:ethancc@uw.edu)])
 
 : Class #N on Zoom
   : [Slides](#), [Notebook](#)
