@@ -7,7 +7,7 @@ Sep. 30
   : Description ([PDF](/OCEAN_215/materials/assignments/assignment_0.pdf))
 
 Oct. 1
-: Class #0 on Zoom
+: Class #0 on Zoom: Welcome to OCEAN 215
   : Co-created community norms ([PDF](/OCEAN_215/materials/community_norms_aut_2020.pdf))
   
 Oct. 2
