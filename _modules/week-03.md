@@ -20,6 +20,6 @@ Oct. 16
 
 Oct. 17
 : **Assignment #1 due at 11:59 pm PT**{: .label .label-red }
-  : -
+  : Solution notebook available [by request](ethancc@uw.edu)
 : **Assignment #2 available**{: .label .label-purple }
   : Notebook ([HTML](https://nbviewer.org/github/ethan-campbell/OCEAN_215/blob/main/materials/assignments/assignment_2.ipynb), [.ipynb](/OCEAN_215/materials/assignments/assignment_2.ipynb))

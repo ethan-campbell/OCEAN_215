@@ -4,7 +4,7 @@ title: Week 10 - Functions, package management, command line, Jupyter, IDEs; fin
 
 Nov. 30
 : **Assignment #4 due at 11:59 pm PT**{: .label .label-red }
-  : -
+  : Solution notebook available [by request](ethancc@uw.edu)
 
 Dec. 1
 : Lesson #16: Functions, organization, external packages, and string formatting
