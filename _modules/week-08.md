@@ -1,5 +1,5 @@
 ---
-title: Week 8 - SciPy (interpolation, regression), Pandas (split-apply-combine); final project (loading and cleaning data)
+title: Week 8 - SciPy (interpolation, regression); final project (loading and cleaning data)
 ---
 
 Nov. 17
