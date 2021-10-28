@@ -16,13 +16,13 @@ seo:
 
 Welcome to the course website for OCEAN 215, as taught in Autumn 2020 by two graduate students, Ethan Campbell and Katy Christensen. The goal of this course is to **equip undergraduate students to analyze oceanographic data with confidence using the Python programming language**.
 
-This course has been offered since 2015 by Prof. [Stephen Riser](https://environment.uw.edu/faculty/stephen-riser/). In 2020, during the COVID-19 pandemic, we completely redesigned the course using a flipped, virtual instructional approach. All course materials here are original.
+OCEAN 215 has been offered since 2015 by Prof. [Stephen Riser](https://environment.uw.edu/faculty/stephen-riser/). In 2020, during the COVID-19 pandemic, we completely redesigned the course using a flipped, virtual instructional approach. All materials here are original.
 
 On this website, you can find:
 
 - the course [syllabus](about.md),
 - information about the [co-instructors](staff.md),
-- and a weekly [calendar](calendar.md) with links to videos, slides, activities, assignments, and other materials.
+- and a weekly [calendar](calendar.md) with links to videos, slides, activities, assignments, and other resources.
 
 
 ### Evaluation study
