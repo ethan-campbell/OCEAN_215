@@ -1,5 +1,5 @@
 ---
-title: Week 9 - Pandas (split-apply-combine); final project (analyzing data)
+title: Week 9 - Pandas (split-apply-combine); final project (data analysis)
 ---
 
 Nov. 24

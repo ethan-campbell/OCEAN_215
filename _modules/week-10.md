@@ -1,5 +1,5 @@
 ---
-title: Week 10 - Functions, package management, command line, Jupyter, IDEs; final project (analyzing data)
+title: Week 10 - Functions, package management, command line, Jupyter, IDEs; final project (data analysis)
 ---
 
 Nov. 30
