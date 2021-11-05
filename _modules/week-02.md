@@ -16,4 +16,4 @@ Oct. 8
 : Class #2 on Zoom: Debugging, indexing, and slicing activities
   : Slides ([PDF](/OCEAN_215/materials/class/class_2.pdf), [Keynote](/OCEAN_215/materials/class/class_2.key)), Activity notebook ([HTML](https://nbviewer.org/github/ethan-campbell/OCEAN_215/blob/main/materials/class/class_2_notebook.ipynb), [.ipynb](/OCEAN_215/materials/class/class_2_notebook.ipynb))
 : **Final project assigned**{: .label .label-green }
-  : Description ([PDF](/OCEAN_215/materials/assignments/final_project.pdf))
+  : Description ([PDF](/OCEAN_215/materials/assignments/final_project.pdf), [Pages](/OCEAN_215/materials/assignments/final_project.pages))
