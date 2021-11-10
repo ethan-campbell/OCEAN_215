@@ -27,7 +27,7 @@ On this website, you can find:
 
 ### Reuse of materials
 
-*The [course materials](calendar.md) linked on this website, with the exception of the lesson videos on YouTube, are [licensed](https://github.com/ethan-campbell/OCEAN_215/blob/main/materials/LICENSE.md) under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). This license allows for free reuse and adaptation as long as an attribution is included to the authors, Ethan Campbell and Katy Christensen, and to this website. The lesson videos are licensed under YouTube's Standard license. If you find our materials useful in your teaching, we would love to hear about it, though this is not required. Solution notebooks to assignments can be provided [upon request](mailto:ethancc@uw.edu).*
+*The [course materials](calendar.md) linked on this website, with the exception of the lesson videos on YouTube, are [licensed](https://github.com/ethan-campbell/OCEAN_215/blob/main/materials/LICENSE.md) under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). This Creative Commons license allows for free reuse and adaptation as long as an attribution is included to the authors, Ethan Campbell and Katy Christensen, and to this website. The lesson videos are licensed under YouTube's Standard license. If you find our materials useful in your teaching, we would love to hear about it, though this is not required. Solution notebooks to assignments can be provided [upon request](mailto:ethancc@uw.edu).*
 
 
 ### Evaluation study
