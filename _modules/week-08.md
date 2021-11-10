@@ -8,6 +8,6 @@ Nov. 17
 
 Nov. 19
 : Lesson #14: SciPy (linear regression, 1-D and 2-D interpolation)
-  : Video - Ethan (YouTube - Parts [1](#), [2](#)), Slides ([PDF](/OCEAN_215/materials/lessons/lesson_14.pdf), [Keynote](/OCEAN_215/materials/lessons/lesson_14.key)), Notebook ([HTML](https://nbviewer.org/github/ethan-campbell/OCEAN_215/blob/main/materials/lessons/lesson_14_notebook.ipynb), [.ipynb](/OCEAN_215/materials/lessons/lesson_12_notebook.ipynb))
+  : Video - Ethan (YouTube - Parts [1](https://youtu.be/bmFVs5XkUbM), [2](https://youtu.be/iPIFMlW-Vgk)), Slides ([PDF](/OCEAN_215/materials/lessons/lesson_14.pdf), [Keynote](/OCEAN_215/materials/lessons/lesson_14.key)), Notebook ([HTML](https://nbviewer.org/github/ethan-campbell/OCEAN_215/blob/main/materials/lessons/lesson_14_notebook.ipynb), [.ipynb](/OCEAN_215/materials/lessons/lesson_12_notebook.ipynb))
 : Class #14 on Zoom: SciPy (linear regression, 1-D interpolation) - global temperature record activity
   : Slides ([PDF](/OCEAN_215/materials/class/class_14.pdf), [Keynote](/OCEAN_215/materials/class/class_14.key)), Activity notebook ([HTML](https://nbviewer.org/github/ethan-campbell/OCEAN_215/blob/main/materials/class/class_14_notebook.ipynb), [.ipynb](/OCEAN_215/materials/class/class_14_notebook.ipynb)), Data ([NASA GISS temperature record](/OCEAN_215/materials/data/NASA_GISS_global_temp.csv))
