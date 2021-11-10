@@ -25,6 +25,11 @@ On this website, you can find:
 - and a weekly [calendar](calendar.md) with links to videos, slides, activities, assignments, and other resources.
 
 
+### Reuse of materials
+
+*The [course materials](https://github.com/ethan-campbell/OCEAN_215/tree/main/materials) linked on this website are [licensed](https://github.com/ethan-campbell/OCEAN_215/blob/main/materials/LICENSE.md) under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). This license allows for free reuse and adaptation as long as an attribution is included to the authors, Ethan Campbell and Katy Christensen, and to this website. If you find these materials useful in your teaching, we would love to hear about it, though this is not required. Note that solution notebooks to assignments can be made available [by request](mailto:ethancc@uw.edu).*
+
+
 ### Evaluation study
 
 *We are currently working on a retrospective study assessing the effectiveness of the course elements and teaching strategies that we used in Autumn 2020. For preliminary results, see our poster and recorded presentation available [here](https://uw.manifoldapp.org/projects/2021-teaching-learning-symposium/resource/cracking-the-code) from UW's Symposium on Teaching and Learning in April 2021. We will be sharing our work virtually at the AGU Fall Meeting in December 2021 (abstract available [here](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/998855)). Stay tuned for more!*
