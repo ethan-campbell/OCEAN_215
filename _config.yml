@@ -19,7 +19,6 @@ description: Autumn 2020 | University of Washington School of Oceanography
 author: Ethan Campbell and Katy Christensen
 baseurl: '/OCEAN_215' # the subpath of your site, e.g. /blog
 url: 'https://ethan-campbell.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-title_image: "assets/images/bsose_3d.jpeg"
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
