@@ -37,7 +37,9 @@ aux_links:
 footer_content:
 
 # Social sharing
-og_image : "/OCEAN_215/assets/images/bsose_3d.jpeg"  # will display when sharing site on Twitter
+twitter:
+  username: ethan2sea
+  image: "/OCEAN_215/assets/images/bsose_3d.jpeg"
 
 # Collections for website data
 collections:
