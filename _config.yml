@@ -36,6 +36,9 @@ aux_links:
     - 'https://github.com/ethan-campbell/OCEAN_215'
 footer_content:
 
+# Social sharing
+og_image : "/OCEAN_215/assets/images/bsose_3d.jpeg"  # will display when sharing site on Twitter
+
 # Collections for website data
 collections:
   staffers:
