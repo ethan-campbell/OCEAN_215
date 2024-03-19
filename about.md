@@ -51,10 +51,7 @@ We will take time in the first week of class to determine course expectations an
 
 ## Course pages
 
-Note that access is restricted to these resources:
-- Canvas: [https://canvas.uw.edu/courses/1401102](https://canvas.uw.edu/courses/1401102)
-- Google Drive: [https://drive.google.com/drive/folders/1wUmjg7NZjdK_jMHc2y2bIxqHO8KNPa-a?usp=sharing](https://drive.google.com/drive/folders/1wUmjg7NZjdK_jMHc2y2bIxqHO8KNPa-a?usp=sharing)
-- Piazza: [https://piazza.com/class/kdhtk4p4izujg](https://piazza.com/class/kdhtk4p4izujg)
+Public links to the course Canvas, Google Drive, and Piazza resources have been removed here, as access is limited to Autumn 2020 students.
 
 ## Office hours
 

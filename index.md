@@ -34,8 +34,8 @@ On this website, you can find:
 
 ### Evaluation study
 
-*We conducted a retrospective study assessing the efficacy of the course elements and teaching strategies that we used in Autumn 2020. The manuscript has been submitted to Journal of Geoscience Education and is available as [a preprint on the Earth and Space Science Open Archive (ESSOAr)](https://essopenarchive.org/doi/full/10.22541/essoar.168839439.99576639/v1). It can be referenced using the following citation:*
+*We conducted a retrospective study assessing the efficacy of the course elements and teaching strategies that we used in Autumn 2020. The manuscript has been submitted to Journal of Geoscience Education and is available as [a preprint on the Earth and Space Science Open Archive (ESSOAr)](https://essopenarchive.org/doi/full/10.22541/essoar.168839439.99576639/v2). It can be referenced using the following citation:*
 
-Campbell, E.C.\*, Christensen, K.M.\*, Nuwer, M., Ahuja, A., Boram, O., Liu, J., Miller, R., Osuna, I., Riser, S.C. (2023). Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting. *Earth and Space Science Open Archive*. doi:[10.22541/essoar.168839439.99576639/v1](https://essopenarchive.org/doi/full/10.22541/essoar.168839439.99576639/v1). *<small>(* Co-first authors, reflecting equal contributions to this work)</small>*
+Campbell, E.C.\*, Christensen, K.M.\*, Nuwer, M., Ahuja, A., Boram, O., Liu, J., Miller, R., Osuna, I., Riser, S.C. (2023). Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting. *Earth and Space Science Open Archive*. doi:[10.22541/essoar.168839439.99576639/v2](https://essopenarchive.org/doi/full/10.22541/essoar.168839439.99576639/v2). *<small>(* Co-first authors, reflecting equal contributions to this work)</small>*
 
 ---
