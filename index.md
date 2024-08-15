@@ -24,6 +24,8 @@ On this website, you can find:
 - information about the [co-instructors](staff.md),
 - and a weekly [calendar](calendar.md) with links to videos, slides, activities, assignments, and other resources.
 
+Our 41 lesson videos can also be accessed directly on our [YouTube channel](https://www.youtube.com/@ocean215python).
+
 ---
 
 ### Reuse of materials
@@ -34,9 +36,9 @@ On this website, you can find:
 
 ### Evaluation study
 
-*We conducted a retrospective study assessing the efficacy of the course elements and teaching strategies that we used in Autumn 2020, which concluded that "the instructional design facilitated learning and supported [students'] self-guided scientific inquiry." Our [paper](https://doi.org/10.1080/10899995.2024.2384338) in Journal of Geoscience Education offers a detailed analysis and commentary on these teaching materials. It can be referenced using the following citation:*
+*We conducted a retrospective study assessing the efficacy of the course elements and teaching strategies that we used in Autumn 2020, which concluded that "the instructional design facilitated learning and supported [students'] self-guided scientific inquiry." Our [paper](https://doi.org/10.1080/10899995.2024.2384338) published in *Journal of Geoscience Education* offers a detailed analysis and commentary on these teaching materials. It can be referenced using the following citation:*
 
-Campbell, E.C.\*, Christensen, K.M.\*, Nuwer, M., Ahuja, A., Boram, O., Liu, J., Miller, R., Osuna, I., Riser, S.C. (2024). Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting. *Journal of Geoscience Education*, in press. doi:[10.1080/10899995.2024.2384338](https://doi.org/10.1080/10899995.2024.2384338). [[Preprint PDF](https://essopenarchive.org/doi/full/10.22541/essoar.168839439.99576639/v3)] *<small>(* Co-first authors, reflecting equal contributions to this work)</small>*
+Campbell, E.C.\*, Christensen, K.M.\*, Nuwer, M., Ahuja, A., Boram, O., Liu, J., Miller, R., Osuna, I., Riser, S.C. (2024). Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting. *Journal of Geoscience Education*, in press. doi:[10.1080/10899995.2024.2384338](https://doi.org/10.1080/10899995.2024.2384338). *<small>(* Co-first authors, reflecting equal contributions to this work)</small>*
 
 
 ---
